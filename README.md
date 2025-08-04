@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **developer and tech enthusiast**
 - 💻 Languages: `Python`, `C++`, `HTML`, `CSS`, `Java`
 - 🌐 Web: `Flask`, `JavaScript`, `Bootstrap`
 - 🤖 AI/ML: `OpenCV`, `Scikit-learn`, `TensorFlow` (basics)
-- ⚙️ Other Tools: `Git`, `VS Code`, `Linux`, `Jupyter Notebook`
+- ⚙️ Other Tools: `Git`, `VS Code`, `Jupyter Notebook`
 
 ## 📌 Projects
 
@@ -30,9 +30,8 @@ Welcome to my GitHub profile! I'm a passionate **developer and tech enthusiast**
 ## 🧩 Let's Connect
 I'm always open to learning, collaboration, and creative ideas.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/)
-- 📝 [Blog (Coming Soon)](https://yourblog.com)
-- 📫 Email: your.email@example.com
+- 🔗 [LinkedIn](www.linkedin.com/in/parthiban0911)
+- 📫 Email: parthi2006a@gmail.com
 
 ---
 
